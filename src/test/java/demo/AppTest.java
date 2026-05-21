@@ -12,7 +12,7 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-    @Test
+    <petclinic program>
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
